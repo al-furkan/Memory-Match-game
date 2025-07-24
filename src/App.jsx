@@ -1,6 +1,5 @@
 import MemoryMatchGame from "./Pages/MemoryMatchGame";
 
-
 function App() {
   return <MemoryMatchGame />;
 }
